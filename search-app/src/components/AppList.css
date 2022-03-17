@@ -1,0 +1,17 @@
+.logo{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+.list-card{
+    background-color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 12px;
+}
+.list-item{
+    margin-right: 18px;
+    margin-bottom: 18px;
+}

@@ -1,0 +1,15 @@
+.not-card{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.not-found{
+    height: 350px;
+    width: 350px;
+}
+.not-found-title{
+    font-size: 32px;
+    font-weight: 600;
+}

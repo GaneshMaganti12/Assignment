@@ -1,0 +1,16 @@
+.about-card{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.about{
+    margin-bottom: 15px;
+    height: 250px;
+    width: 250px;
+}
+.about-title{
+    font-size: 32px;
+    font-weight: 600;
+}

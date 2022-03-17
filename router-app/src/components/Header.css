@@ -1,0 +1,17 @@
+.margin{
+    margin-left: auto;
+}
+.navbar-title{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+}
+.link{
+    text-decoration: none;
+}
+.item{
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 20px;
+}
